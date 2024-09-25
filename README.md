@@ -36,6 +36,11 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelPJacob&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
 </div>
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 
 
 
