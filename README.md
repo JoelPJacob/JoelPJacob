@@ -1,4 +1,3 @@
-
 <a href="https://visitcount.itsvg.in">
   <img align="right" src="https://visitcount.itsvg.in/api?id=JoelPJacob&label=Profile%20Views&color=12&icon=8&pretty=false" />
 </a>
@@ -8,14 +7,23 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&duration=4000&pause=700&color=B15EFF&center=true&vCenter=true&random=false&width=435&lines=Hey+There!👋🏼;I'm+Joel+P+Jacob">
 </h1>
 
-
 <p align="center">Experienced Software Engineer with 2+ years in React Native development for iOS and Android, specializing in feature integration, bug resolution, and performance optimization. Proficient in React Native, React, and JavaScript. Known for mentoring junior developers and committed to advancing in software engineering. Passionate about creating innovative solutions and enhancing user experiences.</p>
 
 <div align="center">
   <h2>🧑‍💻Tech Stacks</h2>
 
- <img width="800px" src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,materialui,flutter,postman,figma,firebase,github,vscode,npm,netlify,bitbucket"/>
+  <div style="overflow: hidden; white-space: nowrap;">
+    <div style="display: inline-block; animation: scroll 10s linear infinite;">
+      <img width="800px" src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,materialui,flutter,postman,figma,firebase,github,vscode,npm,netlify,bitbucket"/>
+    </div>
+  </div>
 
+  <style>
+    @keyframes scroll {
+      0% { transform: translateX(100%); }
+      100% { transform: translateX(-100%); }
+    }
+  </style>
 </div>
 
 <div align="center"> 
@@ -35,8 +43,3 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelPJacob&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
 </div>
-
-
-
-
-
