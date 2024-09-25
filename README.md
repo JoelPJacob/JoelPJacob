@@ -9,7 +9,7 @@
 </h1>
 
 
-<p align="center">Experienced Software Engineer with 2+ years in React Native development for iOS and Android, specializing in feature integration, bug resolution, and performance optimization. Proficient in React Native, React, and JavaScript. Known for mentoring junior developers and committed to advancing in software engineering. Passionate about creating innovative solutions and enhancing user experiences.</p>
+<p align="justify">Experienced Software Engineer with 2+ years in React Native development for iOS and Android, specializing in feature integration, bug resolution, and performance optimization. Proficient in React Native, React, and JavaScript. Known for mentoring junior developers and committed to advancing in software engineering. Passionate about creating innovative solutions and enhancing user experiences.</p>
 
 <div align="center">
   <h2>🧑‍💻Tech Stacks</h2>
@@ -28,13 +28,6 @@
   </a>
 </div>
 
-<div align=center>
-  <h2>📈GitHub Stats</h2>
-  <img width=354 src="https://github-readme-stats.vercel.app/api?username=JoelPJacob&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="streak stats"/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=JoelPJacob&theme=dark&hide_border=false" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelPJacob&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
-</div>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
