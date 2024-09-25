@@ -9,7 +9,7 @@
 </h1>
 
 
-<p align="center">I'm a frontend developer passionate about crafting beautiful and functional user interfaces. As a fresher in the field, I'm enthusiastic about learning new technologies and expanding my skill set.</p>
+<p align="center">Experienced Software Engineer with 2+ years in React Native development for iOS and Android, specializing in fea- ture integration, bug resolution, and performance optimization. Proficient in React Native, React, and JavaScript. Known for mentoring junior developers and committed to advancing in software engineering. Passionate about creat- ing innovative solutions and enhancing user experiences.</p>
 
 <div align="center">
   <h2>🧑‍💻Tech Stacks</h2>
