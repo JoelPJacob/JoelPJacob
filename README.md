@@ -9,7 +9,7 @@
 </h1>
 
 
-<p align="center">Experienced Software Engineer with 2+ years in React Native development for iOS and Android, specializing in fea- ture integration, bug resolution, and performance optimization. Proficient in React Native, React, and JavaScript. Known for mentoring junior developers and committed to advancing in software engineering. Passionate about creat- ing innovative solutions and enhancing user experiences.</p>
+<p align="center">Experienced Software Engineer with 2+ years in React Native development for iOS and Android, specializing in feature integration, bug resolution, and performance optimization. Proficient in React Native, React, and JavaScript. Known for mentoring junior developers and committed to advancing in software engineering. Passionate about creating innovative solutions and enhancing user experiences.</p>
 
 <div align="center">
   <h2>🧑‍💻Tech Stacks</h2>
